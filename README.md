@@ -1,6 +1,6 @@
 # MultiSig
 
-A classification architecture for multi-modal data. Signature-based tokenization of different data modalities feeds into a single encoder (especially useful for low-data environments with unbalanced data modalities). A decoder then performs two-task classification: label and  Currently supports image (.jpg), video (.mp4) and audio (.wav) data types. The signature tokenizations are extensions the ideas discussed in ImageSig (https://arxiv.org/abs/2205.06929).
+A classification architecture for multi-modal data. Each data modality is tokenized via signature methods. A decoder then performs two-task classification: label and data type. The use of a shared encoder proves especially useful for low-data environments with unbalanced data modalities. Currently supports image (.jpg), video (.mp4) and audio (.wav) data types. The signature tokenizations are extensions of the ideas discussed in ImageSig (https://arxiv.org/abs/2205.06929).
 
 ![Alt text](./full_architecture.png?raw=true)
 
