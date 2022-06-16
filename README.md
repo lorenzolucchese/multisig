@@ -4,7 +4,7 @@ A classification architecture for multi-modal data. Each data modality is tokeni
 
 ![Alt text](./full_architecture.png?raw=true)
 
-The architecture was tested on a (very unbalanced) dataset with the following structure:
+The architecture was tested on a (quite unbalanced) dataset with the following structure:
 ```{bash}
 data
 ├── training_set
@@ -17,3 +17,4 @@ data
     └── dog  (1000 .jpg /  0 .mp4 / 0 .wav)
 ```
 
+This work was produced as part of a 2 week industry mini-project in collaboration with [DataSig](https://www.datasig.ac.uk/) and supervised by [Dr Mohamed Ibrahim](https://www.datasig.ac.uk/people/mohamed-ibrahim). [Presentation](https://drive.google.com/drive/folders/1AhpZyyTdUDGXCrdTMwecrSVEJSUtsjiX).
