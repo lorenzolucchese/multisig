@@ -17,4 +17,4 @@ data
     └── dog  (1000 .jpg /  0 .mp4 / 0 .wav)
 ```
 
-This work was produced as part of a 2 week industry mini-project in collaboration with [DataSig](https://www.datasig.ac.uk/) and supervised by [Dr Mohamed Ibrahim](https://www.datasig.ac.uk/people/mohamed-ibrahim). [Presentation](https://drive.google.com/drive/folders/1AhpZyyTdUDGXCrdTMwecrSVEJSUtsjiX).
+This work was produced as part of a 2 week industry mini-project in collaboration with [DataSig](https://www.datasig.ac.uk/) and supervised by [Dr Mohamed Ibrahim](https://www.datasig.ac.uk/people/mohamed-ibrahim). [Presentation](https://drive.google.com/file/d/1oGCPYzQCt6x11NK-HMwsLroF9h_yIqlV/view?usp=sharing).
